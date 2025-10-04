@@ -1,0 +1,27 @@
+# Core Requirements
+numpy==1.24.3
+pandas==1.5.3
+matplotlib==3.7.1
+seaborn==0.12.2
+plotly==5.14.1
+
+# Machine Learning
+tensorflow==2.13.0
+scikit-learn==1.2.2
+keras==2.13.1
+
+# Astronomy
+lightkurve==2.4.0
+astropy==5.2.2
+eleanor==2.0.8
+tess-point==0.6.0
+
+# Utilities
+jupyter==1.0.0
+notebook==6.5.4
+ipywidgets==8.0.6
+tqdm==4.65.0
+
+# Documentation
+sphinx==7.0.1
+pydata-sphinx-theme==0.13.3
