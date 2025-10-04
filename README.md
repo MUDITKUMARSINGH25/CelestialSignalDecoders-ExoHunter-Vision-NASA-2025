@@ -106,22 +106,10 @@ ExoHunter-Vision-NASA-2025/
 │
 ├── 📁 notebooks/
 │   ├── ExoHunter_Vision_Demo.ipynb
-│   └── TESS_Data_Analysis.ipynb
 │
-├── 📁 results/
-│   ├── performance_metrics.json
-│   ├── exoplanet_predictions.json
-│   └── model_performance.png
-│
-├── 📁 assets/
-│   ├── architecture_diagram.png
-│   ├── demo_lightcurves.png
-│   └── nasa_logo.png
 │
 ├── 📁 docs/
 │   ├── TECHNICAL_PAPER.md
-│   ├── PRESENTATION.md
-│   └── API_REFERENCE.md
 │
 ├── README.md
 ├── LICENSE
